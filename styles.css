@@ -1,0 +1,71 @@
+.container-1{
+    background-color:  hsl(300, 43%, 22%);
+    margin:3% 3% 3%;
+    padding: 3% 3% 3%;
+    color: #fff;
+}
+.container-2{
+    background-color:  hsl(300, 43%, 22%);
+    margin:3% 3% 3%;
+    padding: 3% 3% 3%;
+    color: #fff;
+    margin-top: 5%;
+
+}
+.container-3{
+    background-color:  hsl(300, 43%, 22%);
+    margin:3% 3% 3%;
+    padding: 3% 3% 3%;
+    color: #fff;
+    margin-top: 6%;
+}
+
+img{
+    width: 20%;
+}
+h1{
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding: 5% 5% 5%;
+    color: hsl(300, 43%, 22%);
+    line-height: 1;
+}
+/* p{
+    padding-top: 15px;
+   line-height: 1.5rem;
+} */
+h6{
+    /* float: right; */
+    margin-left: 10px;
+
+}
+
+.second{
+    color: hsl(333, 80%, 67%);
+    margin-left: 10px;
+}
+.button-2{
+    margin-left: 10%;
+   
+}
+
+.buttons button{
+    width: 50%;
+    margin: 10px 0;
+    background-color:hsl(300, 24%, 96%);
+    color:hsl(300, 43%, 22%);
+    font-size: 12px; 
+    font-weight: bold;
+    padding: 2% 2% 2%;
+       
+}
+.container-fliud{
+    padding: 3% 5%;
+}
+.top-paragraphy{
+    padding-left: 5% ; 
+    color:hsl(300, 43%, 22%);
+}
+/* .btn-2{
+    margin-left: 10%;
+} */
